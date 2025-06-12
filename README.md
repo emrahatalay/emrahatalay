@@ -20,8 +20,8 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 📊 My GitHub Stats  
-![Emrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eatalay13&show_icons=true&theme=radical)  
-![Totaly](https://github-readme-streak-stats.herokuapp.com/?user=eatalay13&theme=radical)
+![Emrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrahatalay&show_icons=true&theme=radical)  
+![Totaly](https://github-readme-streak-stats.herokuapp.com/?user=emrahatalay&theme=radical)
 
 ## 🎯 Goals  
 - 🌟 Build engaging, mobile-friendly games.  
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! 🚀
 - 🌍 Collaborate on open-source projects.  
 
 ## 📫 Get in Touch  
-- 📧 **Email**: emrahatalay92@gmail.com  
+- 📧 **Email**: info@eatalay.dev  
 - 🔗 **LinkedIn**: [Emrah Atalay](https://www.linkedin.com/in/emrahatalay/)
 
 ## 🎉 Fun Facts  
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! 🚀
 🚀 _"Software is the art of turning imagination into reality."_  
 
 
-[![eatalay13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eatalay13&theme=github-compact)](https://github.com/eatalay13/github-readme-activity-graph)
+[![emrahatalay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emrahatalay&theme=github-compact)](https://github.com/emrahatalay/github-readme-activity-graph)
 
 
 <div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
