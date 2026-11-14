@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="assets/what-i-build.svg" width="100%" alt="What I build: web development, mobile apps, mobile games, app design and AI automation.">
+<img src="assets/what-i-build.svg" width="100%" alt="What I build: web development, mobile apps, mobile games and AI automation, with design running through all four.">
 
 <br><br>
 
