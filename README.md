@@ -10,7 +10,7 @@
 
 <p align="center">
   I'm Emrah Atalay. I run a team of AI agents: code gets written, tested and reviewed,<br>
-  and <b>every line passes human approval before it ships</b>. Mobile apps, games and automation, from idea to launch.
+  and <b>every line passes human approval before it ships</b>. Web and mobile apps, games and automation, from idea to launch.
 </p>
 
 <br>
@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="assets/what-i-build.svg" width="100%" alt="What I build: mobile apps, mobile games, app design and AI automation.">
+<img src="assets/what-i-build.svg" width="100%" alt="What I build: web development, mobile apps, mobile games, app design and AI automation.">
 
 <br><br>
 
