@@ -1,48 +1,49 @@
-# 👋 Hello, I'm Emrah!  
+<a href="https://eatalay.dev/en">
+  <img src="assets/hero.svg" width="100%" alt="eatalay — Built at AI speed, held to human standards. AI-assisted product development by Emrah Atalay.">
+</a>
 
-Welcome to my GitHub profile! 🚀  
+<p align="center">
+  <a href="mailto:info@eatalay.dev?subject=Project%20inquiry"><img src="assets/btn-discuss.svg" height="48" alt="Discuss your project"></a>
+  <a href="https://eatalay.dev/en/portfolio"><img src="assets/btn-work.svg" height="48" alt="See the work"></a>
+  <a href="https://www.linkedin.com/in/emrahatalay"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>
+</p>
 
-## 🌟 About Me  
-- 🎮 **Aspiring Game Developer**: Exploring Godot.  
-- 🤖 **AI Enthusiast**: Passionate about computer vision and object detection.  
-- 🛠️ **Software Developer**: Skilled in backend, frontend, and mobile development.  
-- 🌱 **Lifelong Learner**: Currently diving into Python and AI.  
+<p align="center">
+  I'm Emrah Atalay. I run a team of AI agents: code gets written, tested and reviewed,<br>
+  and <b>every line passes human approval before it ships</b>. Mobile apps, games and automation, from idea to launch.
+</p>
 
----
+<br>
 
-## 🛠️ Tech Stack  
-- **Backend**: C#, .NET, RabbitMQ, Hangfire  
-- **Frontend**: React, Next.js  
-- **Mobile**: Flutter  
-- **Game Engines**: Godot, Unreal Engine  
-- **AI**: Python (object detection, motion tracking)
+<img src="assets/how-i-work.svg" width="100%" alt="How I work: agents build, a human makes the call. Research, code, tests and docs move in parallel; architecture, product taste and the release call stay with me.">
 
----
+<br><br>
 
-## 📊 My GitHub Stats  
-![Emrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrahatalay&show_icons=true&theme=radical)  
-![Totaly](https://github-readme-streak-stats.herokuapp.com/?user=emrahatalay&theme=radical)
+<img src="assets/what-i-build.svg" width="100%" alt="What I build: mobile apps, mobile games, app design and AI automation.">
 
-## 🎯 Goals  
-- 🌟 Build engaging, mobile-friendly games.  
-- 🤓 Enhance my algorithmic thinking and math skills for game development.  
-- 🌍 Collaborate on open-source projects.  
+<br><br>
 
-## 📫 Get in Touch  
-- 📧 **Email**: info@eatalay.dev  
-- 🔗 **LinkedIn**: [Emrah Atalay](https://www.linkedin.com/in/emrahatalay/)
+<a href="https://eatalay.dev/en/portfolio">
+  <img src="assets/work-header.svg" width="100%" alt="Selected work: ideas taken to release, built alongside AI agents.">
+</a>
 
-## 🎉 Fun Facts  
-- 🌳 I love hiking in nature.  
-- 📚 Reading books, especially in a quiet room, is my ultimate meditation.  
-- 💬 I'm working on improving my English. Don't hesitate to say "Hello!" to me!  
+<p>
+  <a href="https://eatalay.dev/en/projects/hatim-app"><img src="assets/work-hatim-app.svg" width="49%" alt="Hatim App — live web and mobile app. Let's complete the Quran together. Read the case study."></a>
+  <a href="https://eatalay.dev/en/projects/out-of-office"><img src="assets/work-out-of-office.svg" width="49%" alt="Out of Office — mobile game in development. AI took your job, you're next. Read the case study."></a>
+</p>
 
----
+<br>
 
-🚀 _"Software is the art of turning imagination into reality."_  
+<a href="mailto:info@eatalay.dev?subject=Intro%20call">
+  <img src="assets/contact.svg" width="100%" alt="Book a 15-minute intro call: info@eatalay.dev. Agents do research, tests, refactoring and docs; architecture, security, review and the final call stay with me. You own the code and accounts.">
+</a>
 
+<br><br>
 
-[![emrahatalay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emrahatalay&theme=github-compact)](https://github.com/emrahatalay/github-readme-activity-graph)
+<a href="https://eatalay.dev/en">
+  <img src="assets/footer.svg" width="100%" alt="Live. Built with AI, finished by a human. eatalay.dev">
+</a>
 
+<p align="center"><sub>Türkçe için → <a href="https://eatalay.dev">eatalay.dev</a></sub></p>
 
 <div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
