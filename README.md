@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="assets/what-i-build.svg" width="100%" alt="What I build: web development, mobile apps, mobile games and AI automation, with design running through all four.">
+<img src="assets/what-i-build.svg" width="100%" alt="What I build: web development, mobile apps, mobile games and AI automation, with one shared process across all four: research, interface design, architecture, build and test, human review, release and care.">
 
 <br><br>
 
